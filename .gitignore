@@ -2,6 +2,7 @@
 venv
 .env
 env
+.dbt_learn_venv
 
 target/
 dbt_packages/
